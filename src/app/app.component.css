@@ -1,0 +1,18 @@
+
+.selected{
+    background-color: rgb(114, 117, 117)
+  }
+  
+  #colored{
+    background-color: rgb(0, 182, 206);
+  }
+  
+  .my-panel {
+    background: orange;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 50px !important;
+    }
+  
